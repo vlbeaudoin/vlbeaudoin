@@ -4,6 +4,32 @@ _il/lui he/him_
 
 Généraliste (linux / net / sec / .. / windows) pour un organisme à but non lucratif (syndicat étudiant).
 
+
+### Mon stack serveur:
+
+- ansible
+- docker
+- gitea
+- go
+- haproxy
+- libvirt (kvm)
+- opensuse tumbleweed
+
+
+### Mon stack client
+
+- i3-gaps
+- kitty
+- fish
+- nvim
+
+
+### Mon radar:
+
+- pulumi
+- anything hashicorp
+- anything openstack
+
 <!--
 **vlbeaudoin/vlbeaudoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
