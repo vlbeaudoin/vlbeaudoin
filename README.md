@@ -1,8 +1,6 @@
-### Victor Lacasse-Beaudoin <victor.lacassebeaudoin@gmail.com>
+J'écris des fichiers textes pour mon travail.
 
 _il/lui he/him_
-
-J'écris des fichiers textes pour mon travail.
 
 <!--
 **vlbeaudoin/vlbeaudoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
