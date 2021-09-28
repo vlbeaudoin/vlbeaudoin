@@ -19,7 +19,7 @@ Généraliste (linux / net / sec / .. / windows) pour un organisme à but non lu
 - i3-gaps
 - kitty
 - fish
-- nvim
+- neovim
 
 ### Mon radar:
 
