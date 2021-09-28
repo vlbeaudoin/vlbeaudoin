@@ -2,6 +2,8 @@ J'écris des fichiers textes pour mon travail.
 
 _il/lui he/him_
 
+Généraliste (linux / net / sec / .. / windows) pour un organisme à but non lucratif (syndicat étudiant).
+
 <!--
 **vlbeaudoin/vlbeaudoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
