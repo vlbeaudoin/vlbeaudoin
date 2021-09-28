@@ -4,7 +4,6 @@ _il/lui he/him_
 
 Généraliste (linux / net / sec / .. / windows) pour un organisme à but non lucratif (syndicat étudiant).
 
-
 ### Mon stack serveur:
 
 - ansible
@@ -15,7 +14,6 @@ Généraliste (linux / net / sec / .. / windows) pour un organisme à but non lu
 - libvirt (kvm)
 - opensuse tumbleweed
 
-
 ### Mon stack client
 
 - i3-gaps
@@ -23,12 +21,11 @@ Généraliste (linux / net / sec / .. / windows) pour un organisme à but non lu
 - fish
 - nvim
 
-
 ### Mon radar:
 
 - pulumi
-- anything hashicorp
-- anything openstack
+- openstack
+- hashicorp
 
 <!--
 **vlbeaudoin/vlbeaudoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
